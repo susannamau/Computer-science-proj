@@ -1,6 +1,6 @@
 # Foundations of Computer Science - Project
 
-##### Elisa Bernasconi 815551, Damiano Garofoli 837589, Susanna Maugeri 839365
+#### Elisa Bernasconi 815551, Damiano Garofoli 837589, Susanna Maugeri 839365
 
 Progetto per il corso di Foundations of Computer Science
 
