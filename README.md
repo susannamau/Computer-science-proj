@@ -1,4 +1,4 @@
-# FoCS-project
+# Foundations of Computer Science - Project
 
 Progetto per il corso di Foundations of Computer Science
 
