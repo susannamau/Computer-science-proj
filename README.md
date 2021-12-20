@@ -6,4 +6,4 @@ Progetto per il corso di Foundations of Computer Science
 
 Anno accademico 2021-22
 
-Nota: i 5 file di dati si trovano nella cartella _Data/_. Sono stati importati nello script dopo essere stati dezippati.
+Nota: i 5 file di dati, in formato _.csv,_ si trovano nella cartella _Data/_. Sono stati importati nello script dopo essere stati dezippati.
